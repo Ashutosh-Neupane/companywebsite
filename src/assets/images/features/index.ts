@@ -1,0 +1,12 @@
+export  {default as Feature1} from "./feature1.png";
+export  {default as Feature2} from "./feature2.png";
+export  {default as Feature3} from "./feature3.png";
+export  {default as Feature4} from "./feature4.png";
+export  {default as Feature5} from "./feature5.png";
+export  {default as Feature6} from "./feature6.png";
+export  {default as Feature7} from "./feature7.png";
+export  {default as Feature8} from "./feature8.png";
+export  {default as Feature9} from "./feature9.png";
+export  {default as Feature10} from "./feature10.png";
+export  {default as Feature11} from "./feature11.png";
+export  {default as Feature12} from "./feature12.png";

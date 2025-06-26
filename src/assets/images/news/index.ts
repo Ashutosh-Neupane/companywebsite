@@ -1,0 +1,10 @@
+export {default as News1} from "./news1.png";
+export {default as News2} from "./news2.png";
+export {default as News3} from "./news3.png";
+export {default as News4} from "./news4.png";
+export {default as News5} from "./news5.png";
+export {default as News6} from "./news6.png";
+export {default as Blog1} from "./blog1.png";
+export {default as Blog2} from "./blog2.png";
+export {default as Blog3} from "./blog3.png";
+export {default as NewsSingleImage} from "./newssingle.png";

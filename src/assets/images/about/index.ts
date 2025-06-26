@@ -1,0 +1,1 @@
+export { default as AboutHeroImage } from "./hero-image.png";

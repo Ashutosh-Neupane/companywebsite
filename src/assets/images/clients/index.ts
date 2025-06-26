@@ -1,0 +1,14 @@
+export  {default as Cheer} from "./cheer.png";
+export  {default as FlyHanuman} from "./fly-hanuman.png";
+export  {default as HamaGlobal} from "./hama-global.png";
+export  {default as Hitech} from "./hitech.png";
+export  {default as JbFashion} from "./jb-fashion.jpg";
+export  {default as KalpanaCraft} from "./kalpanacraft.png";
+export  {default as KBP} from "./kbp.png";
+export  {default as Millenium} from "./millenium.png";
+export  {default as Moco} from "./moco.png";
+export  {default as NewStyle} from "./new-style.png";
+export  {default as Niu} from "./niu.png";
+export  {default as RemotePro} from "./remotepro.png";
+export  {default as SunyaEk} from "./sunyaek.png";
+export  {default as Tilganga} from "./tilganga.jpg";
